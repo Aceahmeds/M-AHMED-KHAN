@@ -1,0 +1,692 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@400;500;600;700&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+body{
+    background-color: #aaf565;
+}
+
+img.logo1 {
+    position: relative;
+    top: -78px;
+}
+img.logo1 {
+    margin-bottom: -150px;
+    margin-left: -10px;
+}
+button.navbar-toggler {
+    position: relative;
+    right: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nav.navbar.navbar-expand-lg.bg-body-tertiary.shadow.py-3 {
+    position: relative;
+    bottom: 16px;
+}
+
+
+
+.container-fluid {
+    height: 96px;
+    margin-top: -16px;
+    margin-bottom: -17px;
+    background-color: #40661c;
+}
+
+
+
+.logo1 {
+    width: 90px;
+    height: 80px;
+    position:relative;
+    top: 2px;
+}
+.navbar-brand{
+
+    color:  #f75940;
+    padding-left: 40px;
+    margin-left: 30px;
+
+
+}
+.navbar-nav{
+    color: #be0707;
+}
+
+
+
+div#carouselExample {
+    position: relative;
+    bottom: 32px;
+}
+
+.nav-item:hover{
+    border-radius: 10px;
+    background-color: #7b4f16;
+    color: #000000;
+}
+
+
+
+.nav-item{
+    color: rgb(255, 255, 255)1d1;
+    margin-top: 5px;
+    margin-left: 12px;
+    padding-left: 5px;
+    align-items: center;
+
+
+}
+
+.sign-up1{
+    padding-left: 6px;
+    align-items: center;
+    margin-left: 60;
+    padding-top: 5px;
+
+}
+
+.sign-up1:hover{
+    border-radius: 10px;
+    background-color: #7b4f16;
+    color: #ffffff;
+
+}
+ .sign-up1 a:hover{
+    color: #fcfcfc;
+}
+
+.nav-item a:hover{
+    color: #ffffff;
+}
+
+a.navbar-brand:hover{
+color: #fff;
+}
+body{
+   
+    background-color: #c4faab;
+    opacity: 1;
+    line-height: 1.7;
+}
+
+.container-fluid {
+    height: 96px;
+    margin-top: -16px;
+    margin-bottom: -17px;
+    background-color: #30530f;
+}
+
+.nav-link{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 600;
+    color: #000000;
+   
+}
+a{
+    color: #000000;
+    text-decoration: none;
+    transition: all 0.4s;
+font-weight: 600;
+}
+
+img{
+    width: 100%;
+
+} 
+
+section{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.shadow-on-hover{
+     transition: all 0.3s;
+
+}
+
+.shadow-on-hover:hover{
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+.slide-1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Images/plants/big.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.slide-2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Images/plants/pexels-annie-eggleston-15326105.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#heroSlider h6::after,
+#heroSlider h6::before {
+    content: " ";
+    width: 40px;
+    height: 4px;
+    background-color: #ffffff;
+    display: inline-block;
+    margin: 10px;
+    vertical-align: middle;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: rgba(0,0,0,0.6);
+    width: 40px;
+    height: 70px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#about .divider {
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: #F58d17;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.team-member img {
+    max-width: 140px;
+    box-shadow: -10px -10px 0 #aaf565;
+    border-radius: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.intro-text{
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.intro-text p{
+    max-width: 500px;
+    margin: 16px auto 0 auto;
+}
+
+
+#menu .nav-pills .nav-link {
+    background-color: #fff;
+    margin-left: 8px;
+    margin-right: 8px;
+    color: #000000;
+    border-radius: 100px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+}
+
+#menu .nav-pills .nav-link.active {
+    background-color: #8cf42b;
+    color: #000000;
+}
+
+.menu-item .stars {
+    color: #F58d17;
+}
+
+
+
+
+
+#reviews {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Images/Feedback\ image.jpg);
+}
+.review img {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+}
+
+.review .quote-icon {
+    font-size: 74px;
+    color: #F58d17;
+    line-height: 1;
+}
+
+.review .stars {
+    color: #F58d17;
+}
+
+#reviews .carousel-indicators {
+    margin-bottom: -3rem;
+}
+
+
+
+
+
+
+
+
+.insta-post {
+    position: relative;
+    overflow: hidden;
+   
+}
+
+.insta-post .insta-btn {
+    width: 90px;
+    height: 90px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 26px;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+}
+
+.insta-post img {
+    transition: all 0.4s;
+    border-radius: 200px;
+    
+}
+
+.insta-post:hover img {
+    transform: scale(1.2);
+    
+}
+
+.insta-post:hover .insta-btn {
+    opacity: 1;
+}
+
+
+
+
+
+
+
+.blog-post img {
+    width: 40%;
+    object-fit: cover;
+}
+
+@media (max-width: 768px) {
+    .blog-post {
+        flex-direction: column;
+    }
+    .blog-post img {
+        width: 100%;
+    }
+
+    a {
+        color: #000000;
+        text-decoration: none;
+        transition: all 0.4s;
+        font-weight: 600;
+    }
+}
+
+
+.blog-posts-color{
+color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .icons4{
+    color: #fcfcfc ;
+    width: 150px;
+    height: 150px;
+    
+}  
+
+#features{
+    background: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)), url(../Images/images/cover2.jpg );
+
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.feature{
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.feature .feature-icon{
+    width: 80px;
+    height: 80px;
+    background-color: #f58d17;
+    color: #ffffff;
+    font-size: 28px;
+    display: inline-grid;
+    text-align: center;
+    align-content: center;
+
+}
+.bg-cover{
+    max-width: 2500px;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.container1{
+    min-height: 100vh;
+     background: #000000;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background: url(../Images/plants/istockphoto-1225155638-612x612.jpg);
+     background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.container1 form{
+    height: 400px;
+    width: 670px;
+    display: flex;
+justify-content: center;
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+border-radius: 15px;
+background: rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(10px);
+flex-wrap: wrap;
+}
+
+.container1 form h1{
+    color: #000000;
+    font-weight: 500;
+    margin-top: 20px;
+    width: 500px;
+ text-align: center;   
+}
+
+.container1 form input{
+    width: 290px;
+    height: 40px;
+    padding-left: 10px;
+    outline: none;
+border: none;
+font-size: 15px;
+margin-bottom: 15px;
+background: none;
+border-bottom: 2px solid #fff ;    
+}
+
+.container1 form input::placeholder{
+    color: #000000;
+}
+
+.container1 form #lastname,
+.container1 form #mobile{
+    margin-left: 20px;
+}
+
+
+.container1 form h4{
+    color: #030000;
+    font-weight: 300;
+    width: 600px;
+    margin-top: 20px;
+
+}
+
+.container1 form textarea{
+    background: none;
+     border: none;
+     border-bottom: 2px solid #fff;
+    color: #fff;
+     font-weight: 200;
+     font-size: 15px;
+     padding: 10px;
+    outline: none;
+    min-width: 600px;
+    max-width: 600px;
+    min-height: 80px;
+    max-height: 80px;
+
+    
+}
+
+textarea::-webkit-scrollbar{
+
+    width: 1em;
+}
+
+textarea::-webkit-scrollbar-thumb{
+
+background-color: rgba(194,194,194,0.713);
+
+}
+
+.container form #button{
+border: none;
+background: #fff;
+border-radius: 5px;
+margin-top: 20px;
+font-weight: 600;
+font-size: 28px;
+color: #333;
+width: 100px;
+padding: 0;
+margin-right: 500px;
+margin-bottom: 30px;
+transition: 0.3s;
+}
+
+.container form #button:hover{
+
+opacity: 0.7;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Images/plants/12345.jpg);
+   padding-top: 95px;
+   padding-bottom: 30px;
+   opacity: 0.9;
+   
+}    
+
+.footer-top {
+    margin-bottom: 30px;
+}
+
+
+
+footer p,
+footer a{
+ color: rgba(255, 255, 255, 0.88);
+
+}
+
+footer .social-links a{
+    font-weight: normal;
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+
+footer img{
+    max-width: 175px;
+   
+}
+
+.footer-bottom {
+    padding-top: 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+}
+.Fotter-Icon{
+    color: #ffffff;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+    
+    .icon1{
+        background-color: antiquewhite;
+    }
+   
+    
